@@ -1,0 +1,27 @@
+{
+  "name": "parse-url2obj",
+  "version": "0.0.1",
+  "description": "将url字符串解析为 Object",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "webpack",
+    "example": "http-server -p 4001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rain120/parse-url2obj.git"
+  },
+  "keywords": [
+    "url",
+    "object"
+  ],
+  "author": "Rain120",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rain120/parse-url2obj/issues"
+  },
+  "homepage": "https://github.com/Rain120/parse-url2obj#readme"
+}

@@ -6,6 +6,7 @@
 
 ## 安装下载
 
+- 下载地址 https://github.com/Rain120/parse-url2obj/releases/tag/v0.0.1
 
 ## 快速使用
 简单接入文档
